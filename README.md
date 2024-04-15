@@ -9,11 +9,11 @@ To run the application locally, follow these steps:
 
 1. Clone the repository:
     
-    `git clone https://github.com/your-username/fitness-app.git`
+    `git clone https://github.com/LazyFlex/gym-app.git`
     
 2. Navigate to the project directory:
     
-    `cd fitness-app`
+    `cd gym-app`
     
 3. Install dependencies:
      
@@ -67,4 +67,4 @@ The footer section contains links to important pages, social media profiles, and
 
 ## Deployment
 
-The application is deployed on Vercel.
+The application is deployed on Vercel , [Link to deployed app](https://gym-app-eight-blond.vercel.app/).
