@@ -1,5 +1,5 @@
 
-# Fitness Application with TypeScript, React, Tailwind.
+# Fitness Application with React.
 
 This repository contains the source code for a complete TypeScript fitness application built using React, Tailwind CSS, Hero Icons, Framer Motion, Form Submit, and React Anchor Link Smooth Scroll. The application includes various features such as a navbar menu, home page, benefits page, our classes page, contact us page, and a footer. Additionally, it is configured to be deployed on Vercel.
 
